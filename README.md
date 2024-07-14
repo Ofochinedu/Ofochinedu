@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Justice Ofokansi
 - 👀 I’m an experienced Data Analyst that is passionate about uncovering insights. My proficiency spans across spreadsheet applications, SQL, Power BI, and Python
 - 🌱 I’m currently learning Web Scrapping
-- 💞️ I’m looking to collaborate on Data Analytics Project
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 I can be reached on Email: justiceofokansi@gmail.com, Phone No: +2348034771639, LinkedIn: https://www.linkedin.com/in/justiceofokansi/
 - ⚡ Fun fact: I like to take a drive at midnight
 
