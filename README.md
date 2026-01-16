@@ -1,15 +1,26 @@
-- 👋 Hi, I’m Justice Ofokansi
+## Hi, I'm Justice! 👋
+
 - 👀 I’m an analytical and results-driven Data Analyst.
-- ⚡My proficiency spans across SQL, Advanced Excel, Power BI, Tableau & Python
-- 🌱I am a Certified CompTIA Data+ and BCS Business Analysis Foundation Analyst
-- 💞️ I’m looking to collaborate on Data Analytics Projects
-- 📫 I can be reached on Email: justiceofokansi@gmail.com, Phone No: +447918145733,
-- LinkedIn: https://www.linkedin.com/in/justiceofokansi/, Portfolio: https://justiceofokansi.wixstudio.com/portfolio
+- 🌱 I am a Certified CompTIA Data+ and BCS Business Analysis Foundation Analyst
+- 👀 I am into Data Analysis, Business Intelligence, Finance & Psychology
 
+## 🛠 Skills
+- ⚡My proficiency spans acrossSQL, Advanced Excel, Power BI, Python & Tableau
 
-- PORTFOLIO
-- AURORA BANK ANALYSIS - https://github.com/Ofochinedu/Portfolio-Projects/tree/main/Aurora%20Bank
-- TECHNICAL SUPPORT ANALYSIS - https://github.com/Ofochinedu/Portfolio-Projects/tree/main/Technical%20Support%20Analysis
+## Links
+- 📫 Email: justiceofokansi@gmail.com
+- [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://linktr.ee/dedatadude](https://justiceofokansi.wixstudio.com/portfolio))
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justiceofokansi/)
+
+## More About Me
+💞️ I am available for Data Analyst and Business Intelligence roles. Kindly reach out to me via Linkedin and email
+
+👯‍♀️ I'm open to collaborations
+
+🎥 When I'm not working, I am reading about psychology or  money or spending time with friends and family.
+
+💬 Ask me about Numbers, Data Analytics, Business Intelligence and how the mind works.
+
 
 <!---
 Ofochinedu/Ofochinedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
