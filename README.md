@@ -9,6 +9,7 @@
 
 - PORTFOLIO
 - AURORA BANK ANALYSIS - https://github.com/Ofochinedu/Portfolio-Projects/tree/main/Aurora%20Bank
+- TECHNICAL SUPPORT ANALYSIS - https://github.com/Ofochinedu/Portfolio-Projects/tree/main/Technical%20Support%20Analysis
 
 <!---
 Ofochinedu/Ofochinedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
