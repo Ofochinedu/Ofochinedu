@@ -1,3 +1,8 @@
+<!-- Dynamic Divider -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=435&lines=Exploring+the+World+of+Data...;Visualizing+Insights+with+Power+BI;Analyzing+Trends+with+Python;Designing+Impactful+Dashboards" alt="Typing SVG" />
+</p>
+
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/127870290?v=4" alt="Justice Ofokansi" width="150" height="150" style="border-radius: 50%;"/>
@@ -6,11 +11,13 @@
 <!-- Header -->
 <h1 align="center" style="font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;">Hi, I'm <strong>Justice ofokansi! 👋</strong></h1>
 
-<p align="center" style="width:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+<!-- Dynamic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
-<h2 align="center">GitHub Mentor | Data & Software Development</h2>
+<!-- Title -->
+<h2 align="center">Data Analyst | Business Intelligence Analyst</h2>
 
 <p align="center">
   I’m an  <strong>analytical & results-driven</strong> Data Analyst.<br/>
@@ -18,6 +25,7 @@
   I am into <strong>Data Analysis, Business Intelligence, Finance & Psychology</strong>.
 </p>
 
+<!-- portfolio & Linkedin -->
 <p align="center">
   <a href="https://justiceofokansi.wixstudio.com/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/view_my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="portfolio">
@@ -27,20 +35,19 @@
   </a>
 </p>
 
+<!-- Email -->
 <p align="center">
   📫 <b>Email:</b> <a href="mailto:justiceofokansi@gmail.com">justiceofokansi@gmail.com</a>
 </p>
 
-
-<p align="center" style="width:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
-
+<!-- Skills Section -->
 <div align="center">
   <h1>Skill & Tools</h1>
 </div>
 
-<p align="center" style="width:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+<!-- Dynamic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
 ### Technical
@@ -84,9 +91,9 @@
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white">
 </p>
 
-
-<p align="center" style="width:100%;">
-  <img src="assets/rainbow.gif" alt="Rainbow Logo" /><img src="assets/rainbow.gif" alt="Rainbow Logo" />
+<!-- Dynamic Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 
 ## More About Me ?
@@ -95,7 +102,8 @@
 - 🎥 When I'm not working, I am reading about psychology or  money or spending time with friends and family.
 - 💬 Ask me about Numbers, Data Analytics, Business Intelligence and how the mind works.
 
-
+<!-- Dynamic Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3776AB&height=60&section=header" width="100%"/>
 
 <!---
 Ofochinedu/Ofochinedu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
